@@ -1,6 +1,6 @@
 ![logo](_media/avatar.jpeg)
 
-# muluofeng的个人笔记
+# Sherry的个人笔记
 
 > talking is cheap show me the code
 
