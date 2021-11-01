@@ -9,7 +9,7 @@
     * [redis](/study/redis/README)
     * [JUC](/study/JUC/README)
     * [netty](/study/netty/尚硅谷netty/README)
-    * [jvm](/study/jvm/README)
+    * [jvm](/study/泛型与继承.md)
 
 
 
