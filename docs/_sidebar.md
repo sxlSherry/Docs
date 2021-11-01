@@ -1,86 +1,29 @@
-* 导读
-    * [java基础](/study/java基础/README)
-        * [1_equals和等等的区别](/study/java基础/1_equals和等等的区别/README)
-        * [2_代码块](/study/java基础/2_代码块/README)
-        * [3_JDK动态代理和CGLIB动态代理](/study/java基础/3_JDK动态代理和CGLIB动态代理/README)
-        * [4_Java注解和反射](/study/java基础/4_Java注解和反射/README)
-        * [5_集合](/study/java基础/5_集合/README)
-            * [1_hashmap原理](/study/java基础/5_集合/1_hashmap原理/README)
-            * [2_ConcurrentHashMap](/study/java基础/5_集合/2_ConcurrentHashMap/README)
-            * [3_arraylist和linklist](/study/java基础/5_集合/3_arraylist和linklist/README)
-        * [6_位运算](/study/java基础/6_位运算/README)
-        * [7_创建对象的方式](/study/java基础/7_创建对象的方式/README)
-        * [8_字符串](/study/java基础/8_字符串/README)
-        * [9_java日志](/study/java基础/9_java日志/README)
-
-    * [jvm](/study/jvm/README)
-        * [0_JVM体系结构](/study/jvm/0_JVM体系结构/README)
-        * [1_什么是GCRoots能做什么](/study/jvm/1_什么是GCRoots能做什么/README)
-        * [2_JVM参数调优](/study/jvm/2_JVM参数调优/README)
-        * [3_Java中的强引用_软引用_弱引用_虚引用分别是什么](/study/jvm/3_Java中的强引用_软引用_弱引用_虚引用分别是什么/README)
-        * [4_Java内存溢出OOM](/study/jvm/4_Java内存溢出OOM/README)
-        * [5_垃圾回收器](/study/jvm/5_垃圾回收器/README)
-        
-    * [JUC](/study/JUC/README)
-        * [**1_谈谈Volatile**](/study/JUC/1_谈谈Volatile/README)
-            * [**1_Volatile和JMM内存模型的可见性**](/study/JUC/1_谈谈Volatile/1_Volatile和JMM内存模型的可见性/README)
-            * [**2_Volatile不保证原子性**](/study/JUC/1_谈谈Volatile/2_Volatile不保证原子性/README)
-            * [**3_Volatile禁止指令重排**](/study/JUC/1_谈谈Volatile/3_Volatile禁止指令重排/README)
-            * [**4_Volatile的应用**](/study/JUC/1_谈谈Volatile/4_Volatile的应用/README)
-        * [**2_谈谈CAS**](/study/JUC/2_谈谈CAS/README)
-        * [**3_谈谈原子类的ABA问题**](/study/JUC/3_谈谈原子类的ABA问题/README)
-        * [**4_ArrayList为什么线程不安全**](/study/JUC/4_ArrayList为什么线程不安全/README)
-        * [**5_TransferValue是什么**](/study/JUC/5_TransferValue是什么/README)
-        * [**6_Java的锁**](/study/JUC/6_Java的锁/README)
-            * [**Java锁之读写锁**](/study/JUC/6_Java的锁/Java锁之读写锁/README)
-            * [**Java锁之公平锁和非公平锁**](/study/JUC/6_Java的锁/Java锁之公平锁和非公平锁/README)
-            * [**Java锁之可重入锁和递归锁**](/study/JUC/6_Java的锁/Java锁之可重入锁和递归锁/README)
-            * [**Java锁之自旋锁**](/study/JUC/6_Java的锁/Java锁之自旋锁/README)
-            * [**Synchronized无法禁止指令重排却能保证有序性**](/study/JUC/6_Java的锁/Synchronized无法禁止指令重排却能保证有序性/README)
-        * [**7_CountDownLatch_CyclicBarrier_Semaphore使用**](/study/JUC/7_CountDownLatch_CyclicBarrier_Semaphore使用/README)
-            * [**CountDownLatch**](/study/JUC/7_CountDownLatch_CyclicBarrier_Semaphore使用/CountDownLatch/README)
-            * [**CyclicBarrier**](/study/JUC/7_CountDownLatch_CyclicBarrier_Semaphore使用/CyclicBarrier/README)
-        * [**8_阻塞队列**](/study/JUC/8_阻塞队列/README)
-        * [**9_Synchronized和Lock的区别与好处**](/study/JUC/9_Synchronized和Lock的区别与好处/README)
-        * [**10_线程池**](/study/JUC/10_线程池/README)
-        * [**11_死锁编码及快速定位**](/study/JUC/11_死锁编码及快速定位/README)
-        * [**12_Linux相关命令**](/study/JUC/12_Linux相关命令/README)
-        * [**13_Github学习**](/study/JUC/13_Github学习/README)
-        * [**14_乐观锁和悲观锁**](/study/JUC/14_乐观锁和悲观锁/README)
-        * [**15.threadlocal**](/study/JUC/15.threadlocal/README)
-        * [**Code**](/study/JUC/15.Code/README)
-
-    * [mysql](/study/mysql/README)
-        * [**事务隔离级别**](/study/mysql/事务隔离级别/README)
-        * [**索引**](/study/mysql/索引/README)
-            * [1_MySQL的存储引擎](/study/mysql/索引/1_MySQL的存储引擎/README)
-            * [2_索引分类和索引优化](/study/mysql/索引/2_索引分类和索引优化/README)
-            * [3_索引的创建时机](/study/mysql/索引/3_索引的创建时机/README)
-            * [4_慢查询日志和show profiles](/study/mysql/索引/4_慢查询日志和showprofiles/README)
-        * [**mysql锁**](/study/mysql/锁/README)
-        * [**mysql主从复制**](/study/mysql/mysql主从复制/README)
-
-    * [redis](/study/redis/README)
-        * [**redis安装和介绍**](/study/redis/redis安装和介绍/README)
-        * [**redis持久化**](/study/redis/redis持久化/README)
-        * [**redis的基础数据类型**](/study/redis/redis的基础数据类型/README)
-        * [**redis事务和订阅**](/study/redis/redis事务和订阅/README)
-        * [**redis主从复制**](/study/redis/redis主从复制.md)
-        
-    * [Spring&SpringBoot](/study/Spring&SpringBoot/README)
-        * [**springboot自动装配原理**](/study/Spring&SpringBoot/springboot自动装配原理/README)   
-
-    * [netty](/study/netty/尚硅谷netty/README)
-        * [第 1 章 Netty 介绍和应用场景](/study/netty/尚硅谷netty/_content/chapter01)
-        * [第 2 章 Java BIO 编程](/study/netty/尚硅谷netty/_content/chapter02)
-        * [第 3 章 Java NIO 编程](/study/netty/尚硅谷netty/_content/chapter03)
-        * [第 4 章 Netty 概述](/study/netty/尚硅谷netty/_content/chapter04)
-        * [第 5 章 Netty 高性能架构设计](/study/netty/尚硅谷netty/_content/chapter05)
-        * [第 6 章 Netty 核心模块组件](/study/netty/尚硅谷netty/_content/chapter06)
-        * [第 7 章 Google Protobuf](/study/netty/尚硅谷netty/_content/chapter07)
-        * [第 8 章 Netty 编解码器和 Handler 调用机制](/study/netty/尚硅谷netty/_content/chapter08)
-        * [第 9 章 TCP 粘包和拆包及解决方案](/study/netty/尚硅谷netty/_content/chapter09)
-        * [第 10 章 Netty 核心源码剖析](/study/netty/尚硅谷netty/_content/chapter10)
-        * [第 11 章 用 Netty 自己实现 Dubbo RPC](/study/netty/尚硅谷netty/_content/chapter11)
-
+* 目录
+    
+    - [java基础](/study/java基础/README)
+    
+      * [1_泛型与继承](/study/java基础/泛型与继承.md)
+      * [2_泛型之类型擦除](/study/java基础/泛型之类型擦除)
+    
+    - [jvm](/study/jvm/README)
+    
+      * [0_JVM——堆外内存](/study/jvm/JVM——堆外内存)
+      * [1_JVM内存结构——运行时数据区](/study/jvm/JVM内存结构——运行时数据区)
+    
+    - [Spring+](/study/Spring+/README)
+    
+      * [0_SpringBoot集成shiro](/study/Spring+/SpringBoot集成shiro)
+      * [1_springboot oauth2 授权码模式与密码模式](/study/Spring+/springboot oauth2 授权码模式与密码模式.md)
+    
+    - [中间件](/study/中间件/README)
+    
+      * [0_Nginx集群配置](/study/中间件/Nginx集群配置)
+      * [1_Doker的基本使用及遇到的坑](/study/中间件/Doker的基本使用及遇到的坑)
+    
+    - [常见问题记录](/study/常见问题记录/README)
+    
+      * [1_关于Transactional注解](/study/常见问题记录/关于Transactional注解)
+      * [2_SpringBoot使用HttpSession时页面打开卡住](/study/常见问题记录/SpringBoot使用HttpSession时页面打开卡住)
+    
+      
 
