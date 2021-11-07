@@ -6,7 +6,7 @@
 
 ​        Apache Shiro 是一个功能强大、灵活的，开源的安全框架。它可以干净利落地处理身份验证、授权、企业会话管理和加密。Shiro属于轻量级框架，相对于SpringSecurity简单的多。
 
-### ​1. Shiro的用途 
+### 1. Shiro的用途 
 
 Shiro 能做什么呢？
 
@@ -364,25 +364,25 @@ public class BaseController {
 
     此时会直接跳转到登录页面；
 
-  ![image-20210113125014048](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113125014048.png)
+  ![image-20210113125014048](images/image-20210113125014048.png)
 
   - 普通账号sxl登录：localhost:8090/login?userName=sxl&password=123456
 
     显示登录成功
 
-    ![image-20210113125150144](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113125150144.png)
+    ![image-20210113125150144](images/image-20210113125150144.png)
 
   - 密码输错登录：localhost:8090/login?userName=sxl&password=12345
 
     显示密码不正确
 
-    ![image-20210113125359530](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113125359530.png)
+    ![image-20210113125359530](images/image-20210113125359530.png)
 
   - 账号输错登录：localhost:8090/login?userName=sx&password=123456
 
     显示用户不存在
 
-    ![image-20210113125453629](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113125453629.png)
+    ![image-20210113125453629](images/image-20210113125453629.png)
 
 - 测试权限
 
@@ -390,15 +390,15 @@ public class BaseController {
 
     打开首页：进入成功
 
-    ![image-20210113134913769](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113134913769.png)
+    ![image-20210113134913769](images/image-20210113134913769.png)
 
     打开新增：显示没有权限
 
-    ![image-20210113134946758](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113134946758.png)
+    ![image-20210113134946758](images/image-20210113134946758.png)
 
     打开管理员页面：显示没有权限
 
-    ![image-20210113135034408](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113135034408.png)
+    ![image-20210113135034408](images/image-20210113135034408.png)
 
   - 用管理员账号登录：localhost:8090/login?userName=admin&password=123456
 
@@ -408,11 +408,11 @@ public class BaseController {
 
     打开新增：新增成功
 
-    ![image-20210113135130707](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113135130707.png)
+    ![image-20210113135130707](images/image-20210113135130707.png)
 
     打开管理员页面：进入成功
 
-    ![image-20210113135151662](/Users/chenmingliang/Library/Application Support/typora-user-images/image-20210113135151662.png)
+    ![image-20210113135151662](images/image-20210113135151662.png)
 
 ## 三、总结
 

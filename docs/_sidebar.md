@@ -1,5 +1,5 @@
 * 目录
-    
+  
     - [java基础](/study/java基础/README)
     
       * [1_泛型与继承](/study/java基础/泛型与继承.md)
@@ -24,6 +24,7 @@
     
       * [1_关于Transactional注解](/study/常见问题记录/关于Transactional注解)
       * [2_SpringBoot使用HttpSession时页面打开卡住](/study/常见问题记录/SpringBoot使用HttpSession时页面打开卡住)
-    
+      * [3_@Async 注解不生效](/study/常见问题记录/@Async 注解不生效)
+      
       
 
