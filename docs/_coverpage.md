@@ -1,8 +1,8 @@
 ![logo](_media/avatar.jpeg)
 
-# Sherry的个人笔记
+# Sherry的个人博客
 
-> talking is cheap show me the code
+> Life is fine and enjoyable, yet you must learn to enjoy your fine life.
 
 
 
