@@ -13,7 +13,7 @@
     - [Spring+](/study/Spring+/README)
     
       * [0_SpringBoot集成shiro](/study/Spring+/SpringBoot集成shiro)
-      * [1_springboot oauth2 授权码模式与密码模式](/study/Spring+/springboot oauth2 授权码模式与密码模式.md)
+      * [1_springboot的oauth2授权码模式与密码模式](/study/Spring+/springboot的oauth2授权码模式与密码模式.md)
     
     - [中间件](/study/中间件/README)
     
@@ -24,7 +24,7 @@
     
       * [1_关于Transactional注解](/study/常见问题记录/关于Transactional注解)
       * [2_SpringBoot使用HttpSession时页面打开卡住](/study/常见问题记录/SpringBoot使用HttpSession时页面打开卡住)
-      * [3_@Async 注解不生效](/study/常见问题记录/@Async 注解不生效)
+      * [3_@Async注解不生效](/study/常见问题记录/@Async注解不生效)
       
       
 
