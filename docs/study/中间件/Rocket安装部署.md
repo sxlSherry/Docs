@@ -104,33 +104,35 @@ docker run -d \
 ##### broker 目录映射
 
 ```bash
-docker run -d  -v $(pwd)/logs:/home/rocketmq/logs -v $(pwd)/store:/home/rocketmq/store \
-      -v $(pwd)/conf:/home/rocketmq/conf \
+docker run -d  -v /data/rocketmq/logs:/home/rocketmq/logs -v /data/rocketmq/store:/home/rocketmq/store \
+      -v /data/rocketmq/conf:/home/rocketmq/conf \
       --name rmqbroker \
       -e "NAMESRV_ADDR=rmqnamesrv:9876" \
       -e "JAVA_OPT_EXT=-Xms512M -Xmx512M -Xmn128m" \
       -p 10911:10911 -p 10912:10912 -p 10909:10909 \
       foxiswho/rocketmq:4.8.0 \
       sh mqbroker -c /home/rocketmq/conf/broker.conf
+      
 ```
 
 注意
 
 > 如果你的微服务没有使用`docker`,那么需要把`/etc/rocketmq/broker.conf` 配置文件中的`brokerIP1=192.168.0.253` 这个启用，IP 地址填写 你docker 所在 宿主机的IP ，否则报错
 >
-> 映射本地目录`logs`权限一定要设置为 777 权限，否则启动不成功
+> 映射本地目录，文件权限一定要设置为 777 权限，否则启动不成功
 
-**重点**：这边我一直启动不成功，原因是我本地没有broker.conf这个文件，这个文件需要自己创建。
+**重点**：1. 这边我一直启动不成功，原因是我本地没有broker.conf这个文件，这个文件需要自己创建。
+
+2. 映射本地目录，文件和文件夹的权限一定要设置为 777 权限，不让映射不成功啊，吃了好多亏。
 
 如果一切正常，NameServer和Broker一会儿就会安装好，为了管理上的方便，rocketmq console也是必不可少的工具了，通过上面查询的方式找到需要启动的版本，启动方式如下：
 
 ```bash
-docker run -d --name rmqconsole -p 8180:8080 --link rmqserver:namesrv\
+docker run -d --name rmqconsole -p 8081:8080 --link rmqserver:namesrv\
  -e "JAVA_OPTS=-Drocketmq.namesrv.addr=namesrv:9876\
  -Dcom.rocketmq.sendMessageWithVIPChannel=false"\
  -t styletang/rocketmq-console-ng
 ```
-
 
 
 
