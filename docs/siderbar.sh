@@ -1,19 +1,17 @@
 {\rtf1\ansi\ansicpg936\cocoartf2513
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .SFNSMono-Regular;\f1\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red189\green198\blue208;\red12\green14\blue18;\red109\green109\blue109;
-}
-{\*\expandedcolortbl;;\cssrgb\c78824\c81961\c85098;\cssrgb\c5098\c6667\c9020;\cssrgb\c50196\c50196\c50196;
-}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+{\colortbl;\red255\green255\blue255;\red189\green198\blue208;\red12\green14\blue18;}
+{\*\expandedcolortbl;;\cssrgb\c78824\c81961\c85098;\cssrgb\c5098\c6667\c9020;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww19220\viewh12960\viewkind0
 \deftab720
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalt \clshdrawnil \clwWidth2032\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clmgf \clvertalt \clshdrawnil \clwWidth2032\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clmrg \clvertalt \clshdrawnil \clwWidth2032\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 
 \f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 #!/bin/bash\cell 
+#!/bin/bash\cell 
 \pard\intbl\itap1\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
@@ -93,7 +91,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -109,7 +108,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -151,7 +151,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -159,7 +160,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -167,7 +169,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -225,7 +228,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -643,7 +647,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -654,7 +659,7 @@
 \pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
 \cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
-\cf2 root="/Users/muluofeng/Documents/muluofeng.github.io/docs/study"\cell \row
+\cf2 root="/Volumes/Elements/git/Docs/docs/study"\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth2032\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
@@ -662,12 +667,13 @@
 \pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
 \cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
-\cf2 targetMd="/Users/muluofeng/Documents/muluofeng.github.io/docs/_sidebar.md"\cell \row
+\cf2 targetMd="/Volumes/Elements/git/Docs/docs/_sidebar.md"\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -678,18 +684,13 @@
 \pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
 \cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
-\cf2 exclude=(Code _media _sidebar.md _coverpage.md _navbar.md guide.md index.html 
-\f1 \'c9\'d0\'b9\'e8\'b9\'c8
-\f0 redis.mmap 
-\f1 \'ba\'da\'c2\'ed\'b3\'cc\'d0\'f2\'d4\'b1
-\f0 -Redis
-\f1 \'d1\'a7\'cf\'b0\'b1\'ca\'bc\'c7
-\f0 .doc)\cell \row
+\cf2 exclude=(Code _media _sidebar.md _coverpage.md _navbar.md guide.md index.html )\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -789,7 +790,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -839,7 +841,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
@@ -860,7 +863,7 @@
 \pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
 \cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
-\cf2 targetREADMEMd="/Users/muluofeng/Documents/muluofeng.github.io/docs/README.md"\cell \row
+\cf2 targetREADMEMd="/Volumes/Elements/git/Docs/docs/README.md"\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth2032\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
@@ -893,7 +896,8 @@
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
 \clvertalt \clshdrawnil \clwWidth21318\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 \cell 
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 \cf2 \
 \cell \row
