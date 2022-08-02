@@ -25,6 +25,7 @@
       * [1_Doker的基本使用及遇到的坑](/study/中间件/Doker的基本使用及遇到的坑)
       * [2_Linux安装FTP](/study/中间件/Linux安装FTP)
       * [3_Rocket安装部署](/study/中间件/Rocket安装部署)
+      * [4_Linux安装集合](/study/中间件/Linux安装集合)
     
     - [常见问题记录](/study/常见问题记录/README)
     
