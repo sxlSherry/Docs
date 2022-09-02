@@ -4,14 +4,17 @@
     
       * [1_泛型与继承](/study/java基础/泛型与继承.md)
       * [2_泛型之类型擦除](/study/java基础/泛型之类型擦除)
-      * [3_Mysql总结](/study/java基础/Mysql总结)
-      * [4_用poi-tl向已有word的指定位置中插入数据图片](/study/java基础/用poi-tl向已有word的指定位置中插入数据图片)
-    
+      * [3_用poi-tl向已有word的指定位置中插入数据图片](/study/java基础/用poi-tl向已有word的指定位置中插入数据图片)
+      
     - [jvm](/study/jvm/README)
     
       * [0_JVM——堆外内存](/study/jvm/JVM——堆外内存)
       * [1_JVM内存结构——运行时数据区](/study/jvm/JVM内存结构——运行时数据区)
     
+    - [mysql](/study/mysql/README)
+    
+      - [1_Mysql总结](/study/mysql/Mysql总结)
+      
     - [Spring+](/study/Spring+/README)
     
       * [0_SpringBoot集成shiro](/study/Spring+/SpringBoot集成shiro)
