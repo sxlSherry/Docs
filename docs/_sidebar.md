@@ -29,6 +29,7 @@
       * [2_Linux安装FTP](/study/中间件/Linux安装FTP)
       * [3_Rocket安装部署](/study/中间件/Rocket安装部署)
       * [4_Linux安装集合](/study/中间件/Linux安装集合)
+      * [5_卸载安装rabbitmq](/study/中间件/卸载安装rabbitmq)
     
     - [常见问题记录](/study/常见问题记录/README)
     
