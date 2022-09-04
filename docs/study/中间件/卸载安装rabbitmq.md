@@ -69,23 +69,23 @@ yum install -y rabbitmq-server
 ## 三、启动RabbitMQ服务
 
 ### 启动rabbitmq
-systemctl start rabbitmq-server
+```systemctl start rabbitmq-server```
 
 
 ### 查看rabbitmq状态
-systemctl status rabbitmq-server
+```systemctl status rabbitmq-server```
 
 
 ### 设置rabbitmq服务开机自启动
-systemctl enable rabbitmq-server
+```systemctl enable rabbitmq-server```
 
 
 ### 关闭rabbitmq服务
-systemctl stop rabbitmq-server
+```systemctl stop rabbitmq-server```
 
 
 ### 重启rabbitmq服务
-systemctl restart rabbitmq-server
+```systemctl restart rabbitmq-server```
 
 
 
@@ -124,7 +124,7 @@ systemctl restart rabbitmq-server
 
 
 ### 删除用户
-```rabbitmqctl delete_user 用户名``
+```rabbitmqctl delete_user 用户名```
 
 
 ### 查看用户清单
