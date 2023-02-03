@@ -108,6 +108,34 @@ nginx之前用两种方式都安装过，而且政府的服务器经常没网络
 yum install nginx
 ```
 
+### 官网下载
+
+下载地址
+
+http://nginx.org/en/download.html
+
+下载的nginx复制到Linux指定路径，进入目录中
+
+编译目录
+
+```
+./configure --prefix=/usr/local/nginx --with-http_stub_status_module --with-http_ssl_module --user=nginx --group=nginx
+```
+
+这里的SSL是为了以后可能需要安装ssl证书时需要使用
+nginx配置https请在这里查看
+编译安装
+
+```
+make && make install
+```
+
+安装后的路径为/usr/local/nginx
+
+
+
+
+
 
 
 ## maven安装

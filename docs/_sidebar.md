@@ -33,6 +33,7 @@
       * [4_Linux安装集合](/study/中间件/Linux安装集合)
       * [5_卸载安装rabbitmq](/study/中间件/卸载安装rabbitmq)
       * [6_Linux下DNS配置重启失效问题](/study/中间件/Linux下DNS配置重启失效问题)
+      * [7_Linux-openssh升级](/study/中间件/Linux-openssh升级)
     
     - [常见问题记录](/study/常见问题记录/README)
     
