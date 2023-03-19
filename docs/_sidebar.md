@@ -6,6 +6,10 @@
       * [2_泛型之类型擦除](/study/java基础/泛型之类型擦除)
       * [3_用poi-tl向已有word的指定位置中插入数据图片](/study/java基础/用poi-tl向已有word的指定位置中插入数据图片)
       
+    - [java插件](/study/java插件/README)
+    
+      * [0_MyBatis如何实现流式查询](/study/java插件/MyBatis如何实现流式查询)
+      
     - [jvm](/study/jvm/README)
     
       * [0_JVM——堆外内存](/study/jvm/JVM——堆外内存)
@@ -34,6 +38,7 @@
       * [5_卸载安装rabbitmq](/study/中间件/卸载安装rabbitmq)
       * [6_Linux下DNS配置重启失效问题](/study/中间件/Linux下DNS配置重启失效问题)
       * [7_Linux-openssh升级](/study/中间件/Linux-openssh升级)
+      * [8_jsonschema简介及简单应用](/study/中间件/jsonschema简介及简单应用)
     
     - [常见问题记录](/study/常见问题记录/README)
     
